@@ -1,0 +1,3 @@
+Write a java program to input a decimal number from the keyboard and convert it to binary. Select an appropriate data structure to store the result. Display the result stored in the data structure by removing the values. Assume that the decimal number is less than or equal to 255.
+
+Use Stack or Queue classes as you needed.
